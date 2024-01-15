@@ -13,31 +13,3 @@
     align-items: center;
     background-image: linear-gradient(to bottom right, #bde0fe, #a2d2ff);
 }
-
-.app input {
-    height: 2rem;
-    width: 30rem;
-    outline: none;
-    padding-left: 1rem;
-    margin-bottom: 2rem;
-    font-size: 1.1rem;
-}
-
-.users-container {
-    width: 100%;
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-}
-
-.users-container > div {
-    height: 15rem;
-    margin: 1rem;
-    padding: 0 1rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    align-items: center;
-    background-color: #cdb4db;
-    border: 1px solid black;
-}
